@@ -1,0 +1,42 @@
+*{
+
+padding: 0;
+margin: 0;
+font-family: 'Roboto' ;
+background: lightskyblue;
+
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 600px;
+    font-size: 80px; 
+    color: blue;
+
+}
+
+.start{
+
+    margin-left: 538px;
+    border:2px solid blue;
+    border-radius: 15px;
+    font-size:40px;
+    background: lightblue;
+    color:blue;
+}
+
+.stop{
+   
+    border:2px solid blue;
+    border-radius: 15px;
+    font-size:40px;
+    background: lightblue;
+    color:blue;
+}
+
+button:hover{
+
+cursor: pointer;
+opacity: 0.8;
+
+}
